@@ -17,10 +17,10 @@ Help users find and write reviews of products they have already or trying to pur
 ### App Evaluation
 - **Category:** Market/ Social Networking
 - **Mobile:** This app would be primarily developed for mobile but would perhaps be just as viable on a computer, such as tinder or other similar apps. Functionality wouldn't be limited to mobile devices, however mobile version could potentially have more features.
-- **Story:** Analyzes users music choices, and connects them to other users with similar choices. The user can then decide to message this person and befriend them if wanted.
+- **Story:** Allows users to look and write reviews basing on other people's experiences with the particular procucts.
 - **Market:** Any individual could choose to use this app, and to keep it a safe environment, people would be organized into age groups.
-- **Habit:** This app could be used as often or unoften as the user wanted depending on how deep their social life is, and what exactly they're looking for.
-- **Scope:** First we would start with pairing people based on music taste, then perhaps this could evolve into a music sharing application as well to broaden its usage. Large potential for use with spotify, apple music, or other music streaming applications.
+- **Habit:** This app could be used as often, anytime wants to shop, before buying or shopping for anything, helping them find a product and whether it is worth the run for their money.
+- **Scope:** First we would start with having users write reviews and storing them in database where others could find them and use them as referrence while shopping, then perhaps this could evolve into a social and application as well to broaden its usage. Large potential for use with amazon and other online shopping platforms, Facebook, or other social applications.
 
 ## Product Spec
 ### 1. User Stories (Required and Optional)
