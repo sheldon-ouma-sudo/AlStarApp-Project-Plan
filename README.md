@@ -92,7 +92,7 @@ Optional:
 * Search By Specific Category -> Search Results
 
 ## Wireframes
-<img src=https://imgur.com/6bhZc8Y.gif
+<img src=https://imgur.com/a/0m1bEJi.gif
 
 ### [BONUS] Digital Wireframes & Mockups
 <img src=https://www.figma.com/file/AXV7VKFZXF6nE6u2men6wY/Untitled?node-id=0%3A1
