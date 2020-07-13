@@ -29,13 +29,13 @@ Help users find and write reviews of products they have already or trying to pur
 * User is able to login if they are signed up but taken back to sign up if not
 * User logs in and navigated to the welcome/home screen
 * User picks whether they want to write or find reviews of specific items
-* User is able to be navigated smoothly from one screen to the other and write a review succesfully.
-* User is able to find review of an item they are looking for with ease depending on which categoroy the item they are looking for falls under
-* User is able to find the results if the review exists on the database.
+* User is able to be navigates smoothly from one screen to the other and write a review succesfully.
+* User is able to search for review of an item they are looking for with ease,depending on which category the item they are looking for falls under
+* User is able to find the reviews of an item if it exists on the database.
 
 **Optional Nice-to-have Stories**
 
-* Connect the user to the store in where goods with high reviews can be found
+* Connect the user to the store with goods with high reviews.
 * Connect the user to the people who wrote reviews
 * Profile Add-On: Shows the profile of the users, the reviews they have written and messages from people wanting to know more about the item
 * Notification button with  notification of messages,best sell deals and so on
